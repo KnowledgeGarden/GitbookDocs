@@ -25,5 +25,11 @@ When those tasks are completed, both answers take the same form:
 CO2 cause climate change
 ```
 
+That process is part of the NLP component of OpenSherlock, its ASR. Note that the example also illustrates the _same subject_ detection process in one of its many forms. That is, if we are reading text from online resources and harvesting that into a topic map, the claim that _CO2 causes climate change_ will be mapped into the topic map as three topics:
 
+* The subject which we know has two labels: _CO2_ and _carbon dioxide_
+* The subject which has the label _climate change_
+* The subject which is the _Causal Relation_ which connects those two subjects
+
+ __
 
