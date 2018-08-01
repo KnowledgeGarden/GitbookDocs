@@ -20,3 +20,22 @@ Kafka 1.1.0 \(the current release at this time\)
 
 #### OpenSherlock
 
+* **tq-support** [https://github.com/topicquests/tq-support](https://github.com/topicquests/tq-support) 
+* **tqks-common** [https://github.com/topicquests/tqks-common  ](https://github.com/topicquests/tqks-common  )
+* **tqks-kafka-support** [https://github.com/topicquests/tqks-kafka-support  ](https://github.com/topicquests/tqks-kafka-support  )
+* **tqks-postgres-provider** [https://github.com/KnowledgeGarden/tqks-postgress-provider  ](https://github.com/KnowledgeGarden/tqks-postgress-provider  )
+* **blueprints-sql-provider** [https://github.com/topicquests/blueprints-sql-provider  ](https://github.com/topicquests/blueprints-sql-provider  )
+* **tqks-elastic6-provider** [https://github.com/KnowledgeGarden/tqks-elastic6-provider  ](https://github.com/KnowledgeGarden/tqks-elastic6-provider  )
+* **tqks-statistics** [https://github.com/topicquests/tqks-statistics  ](https://github.com/topicquests/tqks-statistics  )
+* **tqks-subject-server** [https://github.com/topicquests/tqks-subject-server  ](https://github.com/topicquests/tqks-subject-server  )
+* **tqos-merge-agent** [https://github.com/topicquests/tqos-topicmerge-agent](https://github.com/topicquests/tqos-topicmerge-agent)
+* **tqos-asr-core** [https://github.com/topicquests/tqos-asr-core  ](https://github.com/topicquests/tqos-asr-core  )
+* _tqos-asr-reade_r [https://github.com/topicquests/tqos-asr-reader  ](https://github.com/topicquests/tqos-asr-reader  )
+* _tqos-asr-citeomizer_ [https://github.com/topicquests/tqos-asr-citeomizer  ](https://github.com/topicquests/tqos-asr-citeomizer  )
+* _**tqos-asr-documizer**_ [https://github.com/topicquests/tqos-asr-documizer  ](https://github.com/topicquests/tqos-asr-documizer  )
+* _**tqos-asr-gramolizer**_ [https://github.com/topicquests/tqos-asr-gramolizer  ](https://github.com/topicquests/tqos-asr-gramolizer  )
+* **tqos-general-database** [https://github.com/topicquests/tqos-general-database  ](https://github.com/topicquests/tqos-general-database  )
+* _**tqos-asr-sentence-registry**_ [https://github.com/topicquests/tqos-asr-sentence-registry  ](https://github.com/topicquests/tqos-asr-sentence-registry  )
+* 
+
+
