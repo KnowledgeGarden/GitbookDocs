@@ -27,6 +27,7 @@ Kafka 1.1.0 \(the current release at this time\)
 * **blueprints-sql-provider** [https://github.com/topicquests/blueprints-sql-provider  ](https://github.com/topicquests/blueprints-sql-provider  )
 * **tqks-elastic6-provider** [https://github.com/KnowledgeGarden/tqks-elastic6-provider  ](https://github.com/KnowledgeGarden/tqks-elastic6-provider  )
 * **tqks-statistics** [https://github.com/topicquests/tqks-statistics  ](https://github.com/topicquests/tqks-statistics  )
+* _tqks-tagomizer_ [https://github.com/topicquests/tqks-tagomizer](https://github.com/topicquests/tqks-tagomizer)
 * **tqks-subject-server** [https://github.com/topicquests/tqks-subject-server  ](https://github.com/topicquests/tqks-subject-server  )
 * **tqos-merge-agent** [https://github.com/topicquests/tqos-topicmerge-agent](https://github.com/topicquests/tqos-topicmerge-agent)
 * **tqos-asr-core** [https://github.com/topicquests/tqos-asr-core  ](https://github.com/topicquests/tqos-asr-core  )
