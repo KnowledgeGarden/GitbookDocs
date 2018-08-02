@@ -14,3 +14,13 @@ Acronym for _natural language processing_. [Wikipedia](https://en.wikipedia.org/
 
 > **Natural language processing** \(**NLP**\) is an area of [computer science](https://en.wikipedia.org/wiki/Computer_science) and [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) concerned with the interactions between computers and human \(natural\) languages, in particular how to program computers to process and analyze large amounts of [natural language](https://en.wikipedia.org/wiki/Natural_language) data.
 
+### WordGram
+
+A WordGram is a kind of n-gram which, in OpenSherlock, is a container of a sequence of words as read from sentences. The sequence begins with a single word, and then all sequences of up to 8 words in a row.  WordGrams are constructed with a _sliding window_ which walks along the sentence, left to right, accumulating all possible collections of from 1 to 8 words.
+
+Wikipedia says this about [n-grams](https://en.wikipedia.org/wiki/N-gram):
+
+> In the fields of [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) and [probability](https://en.wikipedia.org/wiki/Probability), an **n-gram** is a contiguous sequence of n items from a given [sample](https://en.wikipedia.org/wiki/Sample_%28statistics%29) of text or speech. The items can be [phonemes](https://en.wikipedia.org/wiki/Phoneme), [syllables](https://en.wikipedia.org/wiki/Syllable), [letters](https://en.wikipedia.org/wiki/Letter_%28alphabet%29), [words](https://en.wikipedia.org/wiki/Word) or [base pairs](https://en.wikipedia.org/wiki/Base_pairs) according to the application. The n-grams typically are collected from a [text](https://en.wikipedia.org/wiki/Text_corpus) or [speech corpus](https://en.wikipedia.org/wiki/Speech_corpus). When the items are words, n-grams may also be called shingles.
+
+
+
