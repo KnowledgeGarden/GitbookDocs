@@ -14,6 +14,14 @@ Acronym for _natural language processing_. [Wikipedia](https://en.wikipedia.org/
 
 > **Natural language processing** \(**NLP**\) is an area of [computer science](https://en.wikipedia.org/wiki/Computer_science) and [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) concerned with the interactions between computers and human \(natural\) languages, in particular how to program computers to process and analyze large amounts of [natural language](https://en.wikipedia.org/wiki/Natural_language) data.
 
+### Topic Map
+
+In the simples of definitions, a _topic map_ is a container of _representations_ of topics. Wikipedia says this about [topic maps](https://en.wikipedia.org/wiki/Topic_map):
+
+> A **topic map** is a standard for the representation and interchange of knowledge, with an emphasis on the [findability](https://en.wikipedia.org/wiki/Findability) of information. Topic maps were originally developed in the late 1990s as a way to represent [back-of-the-book index](https://en.wikipedia.org/wiki/Back-of-the-book_index) structures so that multiple indexes from different sources could be merged. However, the developers quickly realized that with a little additional generalization, they could create a [meta-model](https://en.wikipedia.org/wiki/Metamodelling) with potentially far wider application. The [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) standard is formally known as **ISO/IEC 13250:2003**.
+
+OpenSherlock specifically uses the TopicMaps Reference Model, \(TMRM\) ISO 13250-5, which allows the platform to use a more complex representation system than topic maps built to the XML topic maps TopicMaps Data Model \(TMDM\).
+
 ### WordGram
 
 A WordGram is a kind of n-gram which, in OpenSherlock, is a container of a sequence of words as read from sentences. The sequence begins with a single word, and then all sequences of up to 8 words in a row.  WordGrams are constructed with a _sliding window_ which walks along the sentence, left to right, accumulating all possible collections of from 1 to 8 words.
