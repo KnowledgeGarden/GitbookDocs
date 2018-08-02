@@ -15,7 +15,7 @@ Answer 1: CO2 causes climate change
 Answer 2: Climate change is caused by carbon dioxide
 ```
 
-In the simplest possible sketch of how ASR works, it conducts a process of _normalizing_ the two sentences, which entails, in that example, two tasks:
+In the simplest possible sketch of how ASR works, it conducts a process of _normalizing_ the two answers, which entails, in that example, two tasks:
 
 * Detect the synonym and chose one as a _canonical_ term
 * Detect the difference in predicate _voice_ and normalize to _active voice_
