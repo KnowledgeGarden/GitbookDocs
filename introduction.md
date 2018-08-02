@@ -5,6 +5,7 @@ OpenSherlock is software framework for performing a variety of tasks, including
 * Detecting _same subject_ identification for maintaining a _topic map_
 * Performing natural language processing \(NLP\) on text to grow and maintain topic maps and higher-order information structures
 * Performing question answering tasks
+* Performing Literature-based discovery tasks
 
 The system emerged during thesis research \(Park, 2010\). In that thesis proposal, the concept of an _Anticipatory Story Reader_  \(ASR\) was introduced. A simulator of that idea was written as a tiny Eclipse Java project, and fed some 600+ answers to questions about climate change. The idea was to detect _same subject_ among those answers.  An illustration of that process is visible when considering two answers to the same question:
 
