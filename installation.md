@@ -12,6 +12,8 @@ Recommended: a strong CPU, i3 or better, 8gb ram \(caveat: on a single system in
 
 Java 1.8 or higher
 
+Apache Maven
+
 PostgreSQL 9.6 or higher
 
 ElasticSearch 6+
