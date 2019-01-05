@@ -61,5 +61,7 @@ These are the repositories in play now
 * **tqos-general-database** [https://github.com/topicquests/tqos-general-database  ](https://github.com/topicquests/tqos-general-database  )
 * _**tqos-asr-sentence-registry**_ [https://github.com/topicquests/tqos-asr-sentence-registry  ](https://github.com/topicquests/tqos-asr-sentence-registry  )
 * 
+## Installing the Components
+
 
 
